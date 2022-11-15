@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>rich6.jpg</filename>
+	<path>D:\Programming Code\ML\RealTimeObjectDetection\Tensorflow\workspace\images\images\rich6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rich</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>638</xmin>
+			<ymin>179</ymin>
+			<xmax>1258</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>nice2.jpg</filename>
+	<path>D:\Programming Code\ML\RealTimeObjectDetection\Tensorflow\workspace\images\images\nice2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>805</xmin>
+			<ymin>226</ymin>
+			<xmax>952</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

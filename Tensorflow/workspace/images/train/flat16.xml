@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>flat16.jpg</filename>
+	<path>D:\Programming Code\ML\RealTimeObjectDetection\Tensorflow\workspace\images\images\flat16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>834</xmin>
+			<ymin>404</ymin>
+			<xmax>1060</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>happy8.jpg</filename>
+	<path>D:\Programming Code\ML\RealTimeObjectDetection\Tensorflow\workspace\images\images\happy8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>644</xmin>
+			<ymin>222</ymin>
+			<xmax>1242</xmax>
+			<ymax>516</ymax>
+		</bndbox>
+	</object>
+</annotation>

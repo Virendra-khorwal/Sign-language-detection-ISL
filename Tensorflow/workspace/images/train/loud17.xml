@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>loud17.jpg</filename>
+	<path>D:\Programming Code\ML\RealTimeObjectDetection\Tensorflow\workspace\images\images\loud17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loud</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>718</xmin>
+			<ymin>356</ymin>
+			<xmax>1125</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>

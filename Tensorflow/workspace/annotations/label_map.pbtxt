@@ -1,0 +1,40 @@
+item { 
+	name:'flat'
+	id:1
+}
+item { 
+	name:'happy'
+	id:2
+}
+item { 
+	name:'loud'
+	id:3
+}
+item { 
+	name:'mean'
+	id:4
+}
+item { 
+	name:'nice'
+	id:5
+}
+item { 
+	name:'poor'
+	id:6
+}
+item { 
+	name:'quiet'
+	id:7
+}
+item { 
+	name:'rich'
+	id:8
+}
+item { 
+	name:'sad'
+	id:9
+}
+item { 
+	name:'thick'
+	id:10
+}

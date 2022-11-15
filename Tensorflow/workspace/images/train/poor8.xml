@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>poor8.jpg</filename>
+	<path>D:\Programming Code\ML\RealTimeObjectDetection\Tensorflow\workspace\images\images\poor8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>poor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>953</xmin>
+			<ymin>357</ymin>
+			<xmax>1244</xmax>
+			<ymax>730</ymax>
+		</bndbox>
+	</object>
+</annotation>

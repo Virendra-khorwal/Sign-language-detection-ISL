@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>quiet24.jpg</filename>
+	<path>D:\Programming Code\ML\RealTimeObjectDetection\Tensorflow\workspace\images\images\quiet24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>quiet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>887</xmin>
+			<ymin>282</ymin>
+			<xmax>1057</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+</annotation>
